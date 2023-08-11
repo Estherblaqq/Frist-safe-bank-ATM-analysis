@@ -6,6 +6,6 @@ The project involved examining various parameters, including transaction timesta
 My deliverables included a detailed report and an interactive dashboard. The report provided a comprehensive analysis of customer demographics, transaction patterns, popular ATM transactions, and customer behaviour. Based on the past data, it concluded with key insights and actionable recommendations for the bank's operations.
 
 The interactive dashboard offered real-time visualizations, such as graphs, charts, and maps, enabling stakeholders to make informed decisions based on the summarized past data. 
-The project aimed to provide Wisabi Bank with strategic insights based on historical data, helping them enhance their services, optimize ATM operations, and improve customer experience to maintain a competitive edge in the financial market.
+The project aimed to provide First Safe Bank with strategic insights based on historical data, helping them enhance their services, optimize ATM operations, and improve customer experience to maintain a competitive edge in the financial market.
 
  Here is a link to the interactive dashboard: https://app.powerbi.com/links/09qBHjHqlD?ctid=682106db-9a7b-4b35-b9a0-88473385d6cf&pbi_source=linkShare
