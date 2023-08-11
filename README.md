@@ -1,5 +1,5 @@
 # Frist safe bank ATM analysis
- In this project, I acted as an external data consultant for First Safe, a financial institution. My goal was to analyze past ATM transaction data and gain insights into customer behaviour, ATM usage, and opportunities for improving the bank's services.
+ In this project, I acted as an external data consultant for First Safe, a fictional financial institution. My goal was to analyze past ATM transaction data and gain insights into customer behaviour, ATM usage, and opportunities for improving the bank's services.
 
 The project involved examining various parameters, including transaction timestamps, types, customer demographics, ATM locations, and services availed. I carefully processed, analyzed, and visualized the data to uncover hidden trends and patterns.
 
